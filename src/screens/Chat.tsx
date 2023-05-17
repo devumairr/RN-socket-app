@@ -277,7 +277,7 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     alignSelf: 'flex-end',
     alignItems: 'flex-end',
-    maxWidth: 190,
+    maxWidth: 260,
   },
   imageContainerReceived: {
     alignSelf: 'flex-start',

@@ -13,8 +13,8 @@ const ImageCard = ({ source }: { source: string }) => {
 
 const styles = StyleSheet.create({
   container: {
-    width: '100%',
-    height: 180,
+    width: '120%',
+    height: 360,
     justifyContent: 'center',
     alignItems: 'center',
     padding: 10,
